@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on ...
 
-![picture5](https://user-images.githubusercontent.com/64809271/221292623-aa6226d9-d4fa-44ff-83a5-5ec388c6192b.jpg)
+![my avatar](https://user-images.githubusercontent.com/64809271/221293374-819909dd-b654-4f29-851f-241743b03e70.png)
+
 
 <!--
 
