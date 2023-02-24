@@ -1,8 +1,10 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on ...
-![my-picture](https://user-images.githubusercontent.com/64809271/221290653-b15f5b9c-a409-4e68-9508-557fe79dc23e.jpg)
+
+![picture5](https://user-images.githubusercontent.com/64809271/221292623-aa6226d9-d4fa-44ff-83a5-5ec388c6192b.jpg)
 
 <!--
+
 **lauratejada/lauratejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
