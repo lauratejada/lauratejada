@@ -1,7 +1,7 @@
+![banner-03](https://user-images.githubusercontent.com/64809271/221660184-9ea7603f-c330-4431-9ab1-0f071f355edb.jpg)
 
-![winnipeg](https://user-images.githubusercontent.com/64809271/221653834-c48797f9-f64e-47f2-b104-1aca0b65346c.jpg)
-<center>![my avatar](https://user-images.githubusercontent.com/64809271/221293374-819909dd-b654-4f29-851f-241743b03e70.png)
-![hello-avatar](https://user-images.githubusercontent.com/64809271/221654362-0fdf916b-ee08-404b-8f11-0e0766b314de.png)</center>
+![my avatar](https://user-images.githubusercontent.com/64809271/221293374-819909dd-b654-4f29-851f-241743b03e70.png)
+![hello-avatar](https://user-images.githubusercontent.com/64809271/221654362-0fdf916b-ee08-404b-8f11-0e0766b314de.png)
 
 
 ## About me
