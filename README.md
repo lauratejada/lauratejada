@@ -43,6 +43,6 @@ Passionate about graphic design and wed design. I’m looking to collaborate on 
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=default&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/lauratejada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=default&show_icons=true&langs_count=3" alt="My 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=default&show_icons=true&langs_count=4" alt="My 
   GitHub stats"/>
 </a>
