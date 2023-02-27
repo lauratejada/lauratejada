@@ -1,11 +1,13 @@
 ### Hi there 👋
+
+## ABOUT ME
 My name is Laura Tejada. Currently studying Software Development Diploma program at Manitoba Institute of Trades and Technology. Passionate about graphic design and wed design. With more than 5 years of experience in web design and development, and other programming languages self-taught. Extensive experience in meetings with clients for the identification of requirements and design.
 
 - 👯 I’m looking to collaborate on new projects related with marketing, web design and development.
 
 ![my avatar](https://user-images.githubusercontent.com/64809271/221293374-819909dd-b654-4f29-851f-241743b03e70.png)
 
-TECHNICAL SKILLS
+## TECHNICAL SKILLS
 - PHP
 - MVC
 - MySQL
@@ -17,14 +19,13 @@ TECHNICAL SKILLS
 - Microsoft SQL Server
 - Windows, Linux (Basic)
 - Apache, JBoss, Tomcat
-- MS Office (Word, Excel, Power
-Point)
+- MS Office (Word, Excel, Power Point)
 - WordPress, Joomla, Moodle, Drupal
 - Git, GitHub
 - Project Management
 - Production/Operation Management
  
-SOFT SKILLS
+## SOFT SKILLS
 - Good adaptation and fast learning capacity.
 - Good verbal and written communication skills
 - Fluent in English and Spanish (native).
