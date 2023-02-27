@@ -29,16 +29,15 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 - Git, GitHub
 - Project Management
 - Production/Operation Management
- 
+
 ## Soft Skills
 - Good adaptation and fast learning capacity.
 - Good verbal and written communication skills
 - Fluent in English and Spanish (native).
 - Strong time management skills and good attention to details
 - Problem solving
-##
 
-### My statistics
+## My statistics
 
 <a href="https://github.com/lauratejada">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=default&show_icons=true&bg_color=DEG,FBDA61,FF5ACD" alt="My GitHub stats" />
