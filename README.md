@@ -1,7 +1,10 @@
-![image-gitgub](https://user-images.githubusercontent.com/64809271/221648766-c8319ea1-2e0d-485c-b4a8-033dd7f7e092.jpg)
+
+![winnipeg](https://user-images.githubusercontent.com/64809271/221653834-c48797f9-f64e-47f2-b104-1aca0b65346c.jpg)
+![my avatar](https://user-images.githubusercontent.com/64809271/221293374-819909dd-b654-4f29-851f-241743b03e70.png)
+![hello-avatar](https://user-images.githubusercontent.com/64809271/221654362-0fdf916b-ee08-404b-8f11-0e0766b314de.png)
 
 
-## ABOUT ME
+## About me
 Hello there. My name is Laura Tejada. I am a System Engineer from Peru, based on Winnipeg, MB, Canada. 
 
 Currently, studying Software Development Diploma program at Manitoba Institute of Trades and Technology. With more than 5 years of experience in web design and development, and other programming languages self-taught. Extensive experience in meetings with clients for the identification of requirements and design.
@@ -9,9 +12,7 @@ Currently, studying Software Development Diploma program at Manitoba Institute o
 Passionate about graphic design and web design. I’m looking to collaborate on new projects related with marketing, web design and development.
 
 
-![my avatar](https://user-images.githubusercontent.com/64809271/221293374-819909dd-b654-4f29-851f-241743b03e70.png)
-
-## TECHNICAL SKILLS
+## Technical SKILLS
 - PHP
 - MVC
 - MySQL
@@ -43,6 +44,6 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=default&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/lauratejada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=default&show_icons=true&langs_count=4" alt="My 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=default&hide=Hack&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
