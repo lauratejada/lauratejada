@@ -12,7 +12,7 @@ Currently, studying Software Development Diploma program at Manitoba Institute o
 Passionate about graphic design and web design. I’m looking to collaborate on new projects related with marketing, web design and development.
 
 
-## Technical SKILLS
+## Technical Skills
 - PHP
 - MVC
 - MySQL
@@ -30,7 +30,7 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 - Project Management
 - Production/Operation Management
  
-## SOFT SKILLS
+## Soft Skills
 - Good adaptation and fast learning capacity.
 - Good verbal and written communication skills
 - Fluent in English and Spanish (native).
@@ -38,7 +38,7 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 - Problem solving
 ##
 
-### My stats
+### My statistics
 
 <a href="https://github.com/lauratejada">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=default&show_icons=true" alt="My GitHub stats" />
