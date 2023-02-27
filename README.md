@@ -8,7 +8,7 @@ Currently, studying Software Development Diploma program at Manitoba Institute o
 Passionate about graphic design and web design. I’m looking to collaborate on new projects related with marketing, web design and development.
 
 
-## Technical Skills
+## Skills
 - PHP
 - MVC
 - MySQL
@@ -26,16 +26,10 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 - Project Management
 - Production/Operation Management
 
-## Soft Skills
-- Good adaptation and fast learning capacity.
-- Good verbal and written communication skills
-- Fluent in English and Spanish (native).
-- Strong time management skills and good attention to details
-- Problem solving
-
 <p>
 <img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
 <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3" alt="CSS3">
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
 <img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=MySQL" alt="SQL">
