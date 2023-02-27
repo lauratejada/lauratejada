@@ -41,9 +41,9 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 ### My statistics
 
 <a href="https://github.com/lauratejada">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=default&show_icons=true" alt="My GitHub stats" />
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=default&show_icons=true&bg_color=DEG,FBDA61,FF5ACD" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/lauratejada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=default&hide=Hack&show_icons=true&langs_count=3" alt="My 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=default&hide=Hack&show_icons=true&langs_count=3&bg_color=DEG,FBDA61,FF5ACD" alt="My 
   GitHub stats"/>
 </a>
