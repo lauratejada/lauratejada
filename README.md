@@ -1,9 +1,13 @@
+![image-gitgub](https://user-images.githubusercontent.com/64809271/221648766-c8319ea1-2e0d-485c-b4a8-033dd7f7e092.jpg)
+
+
 ### Hi there 👋
 
 ## ABOUT ME
-My name is Laura Tejada. Currently studying Software Development Diploma program at Manitoba Institute of Trades and Technology. Passionate about graphic design and wed design. With more than 5 years of experience in web design and development, and other programming languages self-taught. Extensive experience in meetings with clients for the identification of requirements and design.
+My name is Laura Tejada. Currently studying Software Development Diploma program at Manitoba Institute of Trades and Technology. With more than 5 years of experience in web design and development, and other programming languages self-taught. Extensive experience in meetings with clients for the identification of requirements and design.
 
-- 👯 I’m looking to collaborate on new projects related with marketing, web design and development.
+- 👯 Passionate about graphic design and wed design. I’m looking to collaborate on new projects related with marketing, web design and development.
+
 
 ![my avatar](https://user-images.githubusercontent.com/64809271/221293374-819909dd-b654-4f29-851f-241743b03e70.png)
 
@@ -31,20 +35,14 @@ My name is Laura Tejada. Currently studying Software Development Diploma program
 - Fluent in English and Spanish (native).
 - Strong time management skills and good attention to details
 - Problem solving
+##
 
-<!--
+### My stats
 
-**lauratejada/lauratejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/lauratejada">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/lauratejada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
