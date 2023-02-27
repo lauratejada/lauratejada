@@ -40,9 +40,9 @@ My name is Laura Tejada. Currently studying Software Development Diploma program
 ### My stats
 
 <a href="https://github.com/lauratejada">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=vue&show_icons=true" alt="My GitHub stats" />
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=default&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/lauratejada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratejada&theme=default&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
