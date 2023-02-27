@@ -1,9 +1,5 @@
 ![banner-03](https://user-images.githubusercontent.com/64809271/221660184-9ea7603f-c330-4431-9ab1-0f071f355edb.jpg)
 
-![my avatar](https://user-images.githubusercontent.com/64809271/221293374-819909dd-b654-4f29-851f-241743b03e70.png)
-![hello-avatar](https://user-images.githubusercontent.com/64809271/221654362-0fdf916b-ee08-404b-8f11-0e0766b314de.png)
-
-
 ## About me
 Hello there. My name is Laura Tejada. I am a System Engineer from Peru, based on Winnipeg, MB, Canada. 
 
@@ -36,6 +32,22 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 - Fluent in English and Spanish (native).
 - Strong time management skills and good attention to details
 - Problem solving
+
+<p>
+<img src="https://img.shields.io/badge/-C++-000000?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">
+<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
+<img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=MySQL" alt="SQL">
+</p>
+
+<p><img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
+<img src="https://img.shields.io/badge/-jQuery-000000?style=flat&amp;logo=jQuery&amp;logoColor=0769AD" alt="jQuery">
+<img src="https://img.shields.io/badge/-Linux-000000?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&amp;logo=node.js&amp;logoColor=339933" alt="Node.js">
+</p>
+
 
 ## My statistics
 
