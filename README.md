@@ -3,9 +3,9 @@
 ## About me
 Hello there. My name is Laura Tejada. I am a System Engineer from Peru, based on Winnipeg, MB, Canada. 
 
-Currently, studying Software Development Diploma program at Manitoba Institute of Trades and Technology. With more than 5 years of experience in web design and development, and other programming languages self-taught. Extensive experience in meetings with clients for the identification of requirements and design.
+I recently graduated from the Software Development Diploma program at the Manitoba Institute of Trades and Technology. With more than 5 years of experience in web design and development, and other programming languages self-taught. Extensive experience in meetings with clients for the identification of requirements and design.
 
-Passionate about graphic design and web design. I’m looking to collaborate on new projects related with marketing, web design and development.
+Passionate about graphic design and web design. I’m looking to collaborate on new projects related to education, marketing, web design, and development.
 
 
 ## Skills
