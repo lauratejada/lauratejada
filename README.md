@@ -15,6 +15,12 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 - HTML5
 - CSS
 - Java Script
+- ReactJS
+- C#
+- MySQL
+- Microsoft SQL Server
+- Azure
+- Postman
 - Adobe Illustrator CS6
 - Adobe Photoshop CS6
 - Microsoft SQL Server
@@ -23,6 +29,9 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 - MS Office (Word, Excel, Power Point)
 - WordPress, Joomla, Moodle, Drupal
 - Git, GitHub
+- VS Code, Visual Code
+- .Net
+- ASP.NET
 - Project Management
 - Production/Operation Management
 
