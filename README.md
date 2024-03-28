@@ -47,8 +47,10 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 ## My Projects
 
 ##Fast Typing Game
-<a href="https://github.com/lauratejada"> GitHub Repository </a>
-Description: This project is a fast typing game developed by me. It provides an interactive environment for users to improve their typing speed and accuracy through various challenges and exercises.
+<a href="https://github.com/lauratejada/fast-typing-game"> GitHub Repository </a>
+Description: This project is a fast typing game. It provides an interactive environment for users to improve their typing speed and accuracy through various challenges and exercises.
+
+
 
 ## My Statistics
 
