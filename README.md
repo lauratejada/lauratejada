@@ -58,6 +58,13 @@ Description: This a game were the user have to guess the value of a random numbe
 <a href="https://github.com/lauratejada/react-web-components"> GitHub Repository </a>
 Description: This is a webpage in React using components. I like how it looks.
 
+##JobConnect
+<a href="https://github.com/lauratejada/jobconnect"> GitHub Repository </a>
+Description: This is simulation of a social media Using localstorage and Randomuser API.
+
+##Fakebook
+<a href="https://github.com/lauratejada/fakebook"> GitHub Repository </a>
+Description: This is simulation of a social media posting. Fill the text and choose an image file, then click on the button to add post.
 
 
 ## My Statistics
