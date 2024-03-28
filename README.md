@@ -1,7 +1,7 @@
 ![banner-03](https://user-images.githubusercontent.com/64809271/221660184-9ea7603f-c330-4431-9ab1-0f071f355edb.jpg)
 
-## About me
-Hello there. My name is Laura Tejada. I am a System Engineer from Peru, based on Winnipeg, MB, Canada. 
+## About Me
+Hello there. My name is Laura Tejada. I am a System Engineer based on Winnipeg, MB, Canada. 
 
 I recently graduated from the Software Development Diploma program at the Manitoba Institute of Trades and Technology. With more than 5 years of experience in web design and development, and other programming languages self-taught. Extensive experience in meetings with clients for the identification of requirements and design.
 
@@ -43,7 +43,14 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 </p>
 
 
-## My statistics
+
+## My Projects
+
+##Fast Typing Game
+<a href="https://github.com/lauratejada"> GitHub Repository </a>
+Description: This project is a fast typing game developed by me. It provides an interactive environment for users to improve their typing speed and accuracy through various challenges and exercises.
+
+## My Statistics
 
 <a href="https://github.com/lauratejada">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=lauratejada&theme=default&show_icons=true&bg_color=DEG,feada6,f5efef" alt="My GitHub stats" />
