@@ -50,6 +50,9 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 <a href="https://github.com/lauratejada/fast-typing-game"> GitHub Repository </a>
 Description: This project is a fast typing game. It provides an interactive environment for users to improve their typing speed and accuracy through various challenges and exercises.
 
+##Guessing Game
+<a href="https://github.com/lauratejada/guessing-game"> GitHub Repository </a>
+Description: This a game were the user have to guess the value of a random number generated with JavaScript. The user have to type a number and click in the GUESS button. The game will show the number of guessings. To restart the game click on the RESTART button.
 
 
 ## My Statistics
