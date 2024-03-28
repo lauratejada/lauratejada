@@ -54,6 +54,11 @@ Description: This project is a fast typing game. It provides an interactive envi
 <a href="https://github.com/lauratejada/guessing-game"> GitHub Repository </a>
 Description: This a game were the user have to guess the value of a random number generated with JavaScript. The user have to type a number and click in the GUESS button. The game will show the number of guessings. To restart the game click on the RESTART button.
 
+##React webpage with components
+<a href="https://github.com/lauratejada/react-web-components"> GitHub Repository </a>
+Description: This is a webpage in React using components. I like how it looks.
+
+
 
 ## My Statistics
 
