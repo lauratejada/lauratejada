@@ -46,24 +46,29 @@ Passionate about graphic design and web design. I’m looking to collaborate on 
 
 ## My Projects
 
-##Fast Typing Game
+<b>-- Fast Typing Game </b>
+<p>
 <a href="https://github.com/lauratejada/fast-typing-game"> GitHub Repository </a>
 Description: This project is a fast typing game. It provides an interactive environment for users to improve their typing speed and accuracy through various challenges and exercises.
+</p>
+-- Guessing Game 
 
-##Guessing Game
 <a href="https://github.com/lauratejada/guessing-game"> GitHub Repository </a>
+
 Description: This a game were the user have to guess the value of a random number generated with JavaScript. The user have to type a number and click in the GUESS button. The game will show the number of guessings. To restart the game click on the RESTART button.
 
-##React webpage with components
+-- React webpage with components
 <a href="https://github.com/lauratejada/react-web-components"> GitHub Repository </a>
 Description: This is a webpage in React using components. I like how it looks.
 
-##JobConnect
+-- JobConnect
 <a href="https://github.com/lauratejada/jobconnect"> GitHub Repository </a>
+
 Description: This is simulation of a social media Using localstorage and Randomuser API.
 
 ##Fakebook
 <a href="https://github.com/lauratejada/fakebook"> GitHub Repository </a>
+
 Description: This is simulation of a social media posting. Fill the text and choose an image file, then click on the button to add post.
 
 
